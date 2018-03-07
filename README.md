@@ -1,5 +1,8 @@
 # Django 2.0 startproject template with bootstrap 4.0
 
+## Usage
+django-admin startproject --template https://github.com/robotswordfight/django_project_template_bootstrap4/archive/master.zip projectname . 
+
 Just updates the following:
 
 ### Set templates DIR
